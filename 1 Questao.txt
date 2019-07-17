@@ -1,0 +1,18 @@
+LETRA A)
+
+A classe é um modelo, um planejamento, tal como a maquete de uma casa. Essa casa tem diversas características que não estão expressas no modelo (classe) tais como cor, se é sobrado ou não, se tem garagem ou não, quando foi construída, qual o valor venal, qual a área construída, etc. Isso é classe.
+
+O objeto seria a classe materializada, ou seja, um objeto com os devidos atributos qualificados: uma casa azul, térrea, com garagem, construída em 2015, com valor venal de $ 100.000,00, com área construída de 60m2, etc. Isso é objeto, também conhecida como instância da classe. A instância ocupa espaço na memória tal qual uma casa ocupa espaço em um terreno.
+
+A mesma classe pode dar origem a vários objetos, todos são casas, mas cada uma terá características diferentes.
+
+
+LETRA B)
+
+Construtores servem para inicializar dados de um objeto.
+
+
+LETRA C)
+
+Permite restringir o acesso a variáveis e métodos da classe. Oculta certos detalhes de implementação do usuário da classe.
+Exemplo: Maquina de lavar roupas; A pessoa ao atulizar a maquina não precisa saber como funciona internamente para seu uso, basta apenas saber ligar/desligar.
